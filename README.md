@@ -113,6 +113,14 @@ face-recognition-app/
 
 ---
 
+## License
+
+MIT License — Copyright (c) 2026 [Pasu Nimsuwan](https://github.com/pasunim)
+
+ดูรายละเอียดเพิ่มเติมได้ที่ไฟล์ [LICENSE](LICENSE)
+
+---
+
 ## โครงสร้างฐานข้อมูล
 
 ```sql

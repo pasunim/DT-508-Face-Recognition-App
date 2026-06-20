@@ -12,5 +12,3 @@ wheels/
 # macOS
 .DS_Store
 
-# Database
-face_recognition.db
